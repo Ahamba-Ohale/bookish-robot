@@ -1,0 +1,37 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  background-size: 1440px;
+}
+
+.body1{
+  background-color: hsla(0, 0%, 100%, 1);
+  margin: auto;
+  max-width: 280px;
+  text-align: center;
+  padding-top: 15px;
+  border-radius: 15px;
+  margin-top: 10%;
+}
+
+#img{
+  max-width: 90%;
+  border-radius: 10px;
+}
+
+.text{
+  font-family: Outfit, sans-serif;
+  padding: 5px 20px 25px;
+  opacity: 0.8;
+  font-size: 100%;
+}
+
+#bold{
+  font-size: 1.125em;
+  font-weight: 700;
+}
+
+#p{
+  font-size: 0.875em;
+  font-weight: 400;
+  color: hsl(0, 0%, 40%);
+}
